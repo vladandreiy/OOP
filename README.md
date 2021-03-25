@@ -1,6 +1,12 @@
 # OOP
 Various OOP applications and projects developed while learning OOP Principles
 
+# Auction House
+Simulation of an auction house with multithreading...
+
+# Toy Store
+Simulation of a toy store...
+
 # Laborator:
 lab01: Introduction and Basics  
 lab02: Inheritance and Polymorphism  
