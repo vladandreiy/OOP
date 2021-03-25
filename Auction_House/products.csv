@@ -1,0 +1,21 @@
+product_type,name,year,minimum_price,jewelry_material,gemstone,artist_name,painting_type,furniture_type,furniture_material
+Painting,ornare consequat,2018,850,,,Augy Jimenez,oil,,
+Painting,venenatis,1978,2640,,,Adrienne Pettyfar,watercolour,,
+Painting,nisi venenatis,2008,3400,,,Barris Stavers,acrylic,,
+Painting,justo,1981,1630,,,Nappie de Castelain,oil,,
+Painting,dolor vel,1998,1310,,,Emanuele Yuille,acrylic,,
+Jewelry,ring,1971,2660,gold,false,,,,
+Jewelry,ring,1989,730,gold,false,,,,
+Painting,tempus vel,1975,610,,,Harland Brandom,watercolour,,
+Painting,at turpis,2016,2460,,,Port Jemmett,oil,,
+Painting,elementum,2010,5000,,,Reinold De Bellis,watercolour,,
+Painting,non mi,2014,3790,,,Joachim Cogdell,acrylic,,
+Painting,vitae ipsum,2007,990,,,Martica Raund,oil,,
+Furniture,Maïwenn,1972,1990,,,,,bookcase,cherry
+Painting,maecenas,1981,3320,,,Ezri Glentz,acrylic,,
+Jewelry,bracelet,2002,710,gold,false,,,,
+Jewelry,bracelet,1989,3020,gold,true,,,,
+Jewelry,ring,1982,3730,silver,true,,,,
+Jewelry,earrings,1980,4200,gold,false,,,,
+Jewelry,bracelet,1978,1460,silver,true,,,,
+Furniture,Dorothée,2003,3960,,,,,desk,pine
